@@ -30,4 +30,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ale-devs&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+
+## 🏆 Trofeos:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ale-devs&layout=compact&theme=radical)
