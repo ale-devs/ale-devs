@@ -28,10 +28,6 @@
 
 ![ale-devs GitHub Stats](https://github-readme-stats.vercel.app/api?username=ale-devs&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ale-devs&theme=radical)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ale-devs&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 🏆 Trofeos:
