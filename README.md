@@ -1,7 +1,7 @@
 ## 🐣 Acerca de mí:
 
 👨‍🏫 Actualmente estoy trabajando en la "Dirección de Formación Docente y Asesoramiento Educativo - Ministerio de Educación de El Salvador".  
-👨‍💻 Actualmente estoy estudiando "Ingeniería en Desarrollo de Software" en el "Instituto Tecnológico Centroamericano".  
+👨‍💻 Soy estudiante de la carrera "Ingeniería en Desarrollo de Software" en el "Instituto Tecnológico Centroamericano".  
 
 ---
 
